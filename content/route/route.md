@@ -46,3 +46,14 @@ draft: false
 
 - Starting at Karsten Thomsens Plads.
 - Ending at Højer Sluse.
+
+#### Stage 8 (43 km, 19 m Ascent, 18 m Descent):
+
+- Starting at Højer Sluse.
+- Ending Naturformidlingen, Mandøvej
+
+#### Stage 9 (43 km, 67 m Ascent, 41 m Descent):
+
+- Starting at Naturformidlingen, Mandøvej
+- Ending at Natur Center Varde.
+
