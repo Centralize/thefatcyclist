@@ -15,4 +15,14 @@ draft: false
 #### Stage 1 (60 km, 160 m Ascent, 165 m Descent):
 
 - Starting in Hurup Thy (My current home town).
-- Ending just south of Holstebro, at the shelters near Natur Center.
+- Ending just south of Holstebro, at the shelters near Natur Center Holstebro.
+
+#### Stage 2 (54 km, 129 m Ascent, 141 m Descent):
+
+- Starting at Natur Center Holstebro.
+- Ending near Skarrild, south of Herning.
+
+#### Stage 3 (51 km, 176 m Ascent, 125 m Descent):
+
+- Starting near Skarrild.
+- Ending just south of Vandel near Frederikshaab Plantage.
