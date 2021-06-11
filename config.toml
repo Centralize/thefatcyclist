@@ -1,3 +1,36 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "da-DK"
+title = "The Fat Cyclist"
+theme = "anatole"
+
+[params]
+title = "The Fat Cyclist"
+author = "Mikkel Kaas"
+description = "Call me fat..."
+profilePicture = "images/profile.jpg"
+
+[menu]
+
+	[[menu.main]]
+	name = "Home"
+	identifier = "home"
+	weight = 100
+	url = "/"
+	
+	[[menu.main]]
+	name = "Route"
+	identifier = "route"
+	weight = 200
+	url = "/route/"
+	
+	[[menu.main]]
+	name = "Posts"
+	identifier = "posts"
+	weight = 300
+	url = "/posts/"
+	
+	[[menu.main]]
+	name = "About"
+	identifier = "about"
+	weight = 200
+	url = "/about/"
