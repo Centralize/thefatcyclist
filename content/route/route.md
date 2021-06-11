@@ -26,3 +26,8 @@ draft: false
 
 - Starting near Skarrild.
 - Ending just south of Vandel near Frederikshaab Plantage.
+
+#### Stage 4 (36 km, 145 m Ascent, 216 m Descent):
+
+- Starting near Frederikshaab Plantage.
+- Ending in Kolding.
