@@ -31,3 +31,13 @@ draft: false
 
 - Starting near Frederikshaab Plantage.
 - Ending in Kolding.
+
+#### Stage 5 (45 km, 160 m Ascent, 156 m Descent):
+
+- Starting in Kolding.
+- Ending at Raade Strand Overnatningsplads.
+
+#### Stage 6 (65 km, 263 m Ascent, 228 m Descent):
+
+- Starting at Raade Strand Overnatningsplads.
+- Ending Karsten Thomsens Plads.
