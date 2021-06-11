@@ -40,4 +40,9 @@ draft: false
 #### Stage 6 (65 km, 263 m Ascent, 228 m Descent):
 
 - Starting at Raade Strand Overnatningsplads.
-- Ending Karsten Thomsens Plads.
+- Ending at Karsten Thomsens Plads.
+
+#### Stage 7 (52 km, 12 m Ascent, 54 m Descent):
+
+- Starting at Karsten Thomsens Plads.
+- Ending at Højer Sluse.
